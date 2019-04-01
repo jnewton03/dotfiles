@@ -1,6 +1,6 @@
 [user]
-  name = Jeff Geerling
-  email = geerlingguy@mac.com
+  name = Jake Newton
+  email = jnewton@datical.com
 [core]
   editor = vi
   excludesfile = ~/.gitignore
